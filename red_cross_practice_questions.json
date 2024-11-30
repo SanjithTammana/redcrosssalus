@@ -1,0 +1,1874 @@
+[
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What is the recommended depth of chest compressions for an adult during CPR?",
+        "choices": [
+            "About 1 inch (2.5 cm)",
+            "About 2 inches (5 cm)",
+            "About 3 inches (7.5 cm)",
+            "About 4 inches (10 cm)"
+        ],
+        "correct": "About 2 inches (5 cm)",
+        "explanation": "Compressions should be at least 2 inches deep to ensure adequate circulation during adult CPR."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "At what rate should chest compressions be performed during CPR?",
+        "choices": [
+            "60-80 compressions per minute",
+            "80-100 compressions per minute",
+            "100-120 compressions per minute",
+            "120-140 compressions per minute"
+        ],
+        "correct": "100-120 compressions per minute",
+        "explanation": "A rate of 100-120 compressions per minute optimizes blood flow during CPR."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What is the correct compression-to-ventilation ratio for single-rescuer adult CPR?",
+        "choices": [
+            "15 compressions to 2 breaths",
+            "30 compressions to 2 breaths",
+            "15 compressions to 1 breath",
+            "30 compressions to 1 breath"
+        ],
+        "correct": "30 compressions to 2 breaths",
+        "explanation": "The standard ratio is 30 compressions followed by 2 rescue breaths for adult CPR."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "How should you open the airway of an unconscious adult?",
+        "choices": [
+            "Head-tilt, chin-lift maneuver",
+            "Jaw-thrust maneuver",
+            "Neck extension",
+            "Mouth-to-mouth without airway adjustment"
+        ],
+        "correct": "Head-tilt, chin-lift maneuver",
+        "explanation": "The head-tilt, chin-lift maneuver opens the airway by lifting the tongue away from the back of the throat."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "When using an AED, what is the first step you should take?",
+        "choices": [
+            "Apply the pads to the chest",
+            "Turn on the AED",
+            "Press the shock button",
+            "Check the pulse"
+        ],
+        "correct": "Turn on the AED",
+        "explanation": "Turning on the AED allows it to give you voice prompts and instructions."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "For a child needing CPR, how deep should chest compressions be?",
+        "choices": [
+            "At least one-third the depth of the chest, about 2 inches",
+            "About 1 inch deep",
+            "At least 4 inches deep",
+            "Shallow compressions to avoid injury"
+        ],
+        "correct": "At least one-third the depth of the chest, about 2 inches",
+        "explanation": "Compressing one-third the chest depth ensures effective circulation in children."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What action should you take if the person is gasping but not breathing normally?",
+        "choices": [
+            "Begin CPR",
+            "Wait for normal breathing to resume",
+            "Perform abdominal thrusts",
+            "Give rescue breaths only"
+        ],
+        "correct": "Begin CPR",
+        "explanation": "Gasping is not normal breathing; CPR should be initiated immediately."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "Where should AED pads be placed on an adult victim?",
+        "choices": [
+            "One pad on the center of the chest and one on the back",
+            "Both pads on the upper right chest",
+            "One pad below the right collarbone and one pad on the lower left side",
+            "Pads placement doesn't matter"
+        ],
+        "correct": "One pad below the right collarbone and one pad on the lower left side",
+        "explanation": "Correct pad placement allows the electrical shock to travel through the heart."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "How often should rescuers switch roles during two-person CPR?",
+        "choices": [
+            "Every 5 cycles or 2 minutes",
+            "After each compression",
+            "Only when tired",
+            "Never switch roles"
+        ],
+        "correct": "Every 5 cycles or 2 minutes",
+        "explanation": "Regular switching prevents fatigue and maintains high-quality compressions."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What is the correct hand placement for adult chest compressions?",
+        "choices": [
+            "Heel of one hand on the lower half of the breastbone, other hand on top",
+            "Two fingers on the center of the chest",
+            "Hands on the upper abdomen",
+            "One hand on the chest, one on the forehead"
+        ],
+        "correct": "Heel of one hand on the lower half of the breastbone, other hand on top",
+        "explanation": "Proper hand placement ensures effective compressions and reduces injury risk."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "When performing CPR on an infant, how should you deliver breaths?",
+        "choices": [
+            "Mouth-to-mouth only",
+            "Mouth-to-nose only",
+            "Cover both the mouth and nose with your mouth",
+            "Use a barrier device only"
+        ],
+        "correct": "Cover both the mouth and nose with your mouth",
+        "explanation": "This method ensures that air enters the infant's airway effectively."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What is the compression-to-ventilation ratio for two-rescuer CPR on a child?",
+        "choices": [
+            "30:2",
+            "15:2",
+            "20:2",
+            "10:2"
+        ],
+        "correct": "15:2",
+        "explanation": "A 15:2 ratio is recommended to provide more frequent ventilations for children."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "If an adult victim has a pacemaker, where should you place the AED pads?",
+        "choices": [
+            "Directly over the pacemaker",
+            "At least 1 inch away from the pacemaker",
+            "Do not use AED",
+            "On the back only"
+        ],
+        "correct": "At least 1 inch away from the pacemaker",
+        "explanation": "Avoiding the pacemaker prevents interference with the device's function."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "When can you stop performing CPR?",
+        "choices": [
+            "When the person shows signs of life",
+            "When you are exhausted",
+            "When EMS arrives",
+            "All of the above"
+        ],
+        "correct": "All of the above",
+        "explanation": "CPR can be stopped if the person recovers, you're unable to continue, or professional help takes over."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What should you do if the AED delivers a shock and the person shows signs of life?",
+        "choices": [
+            "Resume CPR immediately",
+            "Monitor breathing and pulse",
+            "Remove the AED pads",
+            "Leave the scene"
+        ],
+        "correct": "Monitor breathing and pulse",
+        "explanation": "Observe the person until EMS arrives, providing care as needed."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "How do you check for responsiveness in an adult victim?",
+        "choices": [
+            "Shake their shoulders and shout their name",
+            "Splash water on their face",
+            "Pinch their ear",
+            "Listen for breathing"
+        ],
+        "correct": "Shake their shoulders and shout their name",
+        "explanation": "This method helps determine if the person is conscious or needs assistance."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What is agonal breathing?",
+        "choices": [
+            "Normal breathing",
+            "Deep, rapid breaths",
+            "Irregular, gasping breaths",
+            "Holding breath intentionally"
+        ],
+        "correct": "Irregular, gasping breaths",
+        "explanation": "Agonal breaths are a sign of cardiac arrest; CPR should be started immediately."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "Which of the following is a sign of effective CPR?",
+        "choices": [
+            "The skin turns blue",
+            "The chest visibly rises during compressions",
+            "The rescuer feels fatigued",
+            "A carotid pulse is felt during compressions"
+        ],
+        "correct": "A carotid pulse is felt during compressions",
+        "explanation": "Feeling a pulse indicates that compressions are generating blood flow."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "When using a bag-valve-mask device, how many rescuers are ideal for effective operation?",
+        "choices": [
+            "One rescuer",
+            "Two rescuers",
+            "Three rescuers",
+            "Four rescuers"
+        ],
+        "correct": "Two rescuers",
+        "explanation": "One rescuer maintains the mask seal while the other squeezes the bag."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What should you do if you witness a child suddenly collapse?",
+        "choices": [
+            "Begin CPR immediately",
+            "Call 911 and then start CPR",
+            "Look for a parent",
+            "Wait to see if they recover"
+        ],
+        "correct": "Call 911 and then start CPR",
+        "explanation": "Activating EMS quickly is crucial in sudden collapses; then begin CPR."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "How do you perform the head-tilt, chin-lift maneuver?",
+        "choices": [
+            "Lift the chin and tilt the head backward",
+            "Push the forehead down and lift the chin",
+            "Tilt the head forward and push the chin down",
+            "Do not touch the head or neck"
+        ],
+        "correct": "Lift the chin and tilt the head backward",
+        "explanation": "This opens the airway by moving the tongue away from the throat."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What modification is made when performing CPR on a choking victim?",
+        "choices": [
+            "Skip breaths entirely",
+            "Check the mouth for obstruction before breaths",
+            "Provide only back blows",
+            "Use abdominal thrusts instead of compressions"
+        ],
+        "correct": "Check the mouth for obstruction before breaths",
+        "explanation": "Removing visible obstructions can clear the airway during CPR."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "In infant CPR, where do you check for a pulse?",
+        "choices": [
+            "Carotid artery",
+            "Radial artery",
+            "Brachial artery",
+            "Femoral artery"
+        ],
+        "correct": "Brachial artery",
+        "explanation": "The brachial pulse is easiest to locate in infants."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "Why is defibrillation important in cardiac arrest?",
+        "choices": [
+            "It restarts the heart",
+            "It resets the heart's rhythm",
+            "It improves breathing",
+            "It cools the body temperature"
+        ],
+        "correct": "It resets the heart's rhythm",
+        "explanation": "Defibrillation can stop abnormal rhythms, allowing a normal rhythm to resume."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What should you do if the victim is wet and you need to use an AED?",
+        "choices": [
+            "Dry the chest before applying pads",
+            "Do not use the AED",
+            "Place pads on the clothing",
+            "Proceed without precautions"
+        ],
+        "correct": "Dry the chest before applying pads",
+        "explanation": "A dry chest ensures effective pad adhesion and reduces risk of electrical injury."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "How many back slaps and chest thrusts are given to a choking infant?",
+        "choices": [
+            "5 back slaps and 5 chest thrusts",
+            "10 back slaps and 10 chest thrusts",
+            "3 back slaps and 3 chest thrusts",
+            "Continuous back slaps only"
+        ],
+        "correct": "5 back slaps and 5 chest thrusts",
+        "explanation": "Alternating back slaps and chest thrusts can help dislodge the object."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What is the purpose of the recovery position?",
+        "choices": [
+            "To keep the airway open",
+            "To allow the person to sleep",
+            "To make transportation easier",
+            "To reduce pain"
+        ],
+        "correct": "To keep the airway open",
+        "explanation": "The recovery position prevents airway obstruction in unconscious breathing individuals."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "When should you move a victim during CPR?",
+        "choices": [
+            "If the scene becomes unsafe",
+            "If they are heavy",
+            "To a softer surface",
+            "Never move the victim"
+        ],
+        "correct": "If the scene becomes unsafe",
+        "explanation": "Safety is paramount; move only if there is immediate danger."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "Which of the following is NOT a link in the adult Chain of Survival?",
+        "choices": [
+            "Early recognition and activation",
+            "Early CPR",
+            "Early defibrillation",
+            "Early administration of medications"
+        ],
+        "correct": "Early administration of medications",
+        "explanation": "Medications are part of advanced care, not the initial Chain of Survival."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "What should you do if you suspect a neck injury in an unconscious victim?",
+        "choices": [
+            "Use the head-tilt, chin-lift maneuver",
+            "Use the jaw-thrust maneuver without head extension",
+            "Move the neck to check for injury",
+            "Avoid opening the airway"
+        ],
+        "correct": "Use the jaw-thrust maneuver without head extension",
+        "explanation": "This method opens the airway while minimizing neck movement."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "Why is high-quality CPR important?",
+        "choices": [
+            "It looks better to bystanders",
+            "It increases the chances of survival",
+            "It reduces rescuer fatigue",
+            "It's legally required"
+        ],
+        "correct": "It increases the chances of survival",
+        "explanation": "Effective CPR maintains blood flow to vital organs, improving outcomes."
+    },
+    {
+        "category": "Child and adult CPR and Child and adult AED",
+        "question": "When providing rescue breaths, how can you minimize the risk of gastric inflation?",
+        "choices": [
+            "Blow breaths forcefully",
+            "Deliver each breath over 1 second",
+            "Press on the abdomen",
+            "Do not tilt the head"
+        ],
+        "correct": "Deliver each breath over 1 second",
+        "explanation": "Slow, controlled breaths reduce air entering the stomach."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the first step in treating a minor burn?",
+        "choices": [
+            "Apply ice directly to the burn",
+            "Run cool (not cold) water over the burn",
+            "Cover the burn with butter",
+            "Break any blisters that form"
+        ],
+        "correct": "Run cool (not cold) water over the burn",
+        "explanation": "Cooling the burn helps reduce swelling and pain."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you treat a nosebleed?",
+        "choices": [
+            "Tilt the head back and pinch the nose",
+            "Tilt the head forward and pinch the nose",
+            "Have the person lie down",
+            "Apply a warm compress to the nose"
+        ],
+        "correct": "Tilt the head forward and pinch the nose",
+        "explanation": "Tilting forward prevents blood from entering the throat; pinching stops bleeding."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the proper way to remove a bee stinger?",
+        "choices": [
+            "Use tweezers to pull it out",
+            "Scrape it away with a flat-edged object",
+            "Squeeze it out with your fingers",
+            "Leave it in place"
+        ],
+        "correct": "Scrape it away with a flat-edged object",
+        "explanation": "Scraping avoids squeezing more venom into the skin."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you treat someone showing signs of shock?",
+        "choices": [
+            "Keep them warm and elevate their legs",
+            "Give them water to drink",
+            "Have them run in place",
+            "Apply ice packs to their body"
+        ],
+        "correct": "Keep them warm and elevate their legs",
+        "explanation": "These actions improve circulation and maintain body temperature."
+    },
+    {
+        "category": "First Aid",
+        "question": "What should you do if someone is having a seizure?",
+        "choices": [
+            "Restrain their movements",
+            "Place an object in their mouth",
+            "Protect them from injury and wait for the seizure to end",
+            "Perform CPR"
+        ],
+        "correct": "Protect them from injury and wait for the seizure to end",
+        "explanation": "Ensure safety without restraining; do not place anything in their mouth."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you treat a sprained ankle using the RICE method?",
+        "choices": [
+            "Rest, Ice, Compression, Elevation",
+            "Rotate, Immobilize, Compress, Exercise",
+            "Rest, Immobilize, Cool, Elevate",
+            "Run, Ice, Compress, Elevate"
+        ],
+        "correct": "Rest, Ice, Compression, Elevation",
+        "explanation": "RICE reduces swelling and promotes healing."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the first step in helping someone with a suspected broken bone?",
+        "choices": [
+            "Move the bone back into place",
+            "Immobilize the area",
+            "Apply heat",
+            "Encourage movement to prevent stiffness"
+        ],
+        "correct": "Immobilize the area",
+        "explanation": "Preventing movement reduces pain and prevents further injury."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you care for a person with heat exhaustion?",
+        "choices": [
+            "Move them to a cooler environment",
+            "Give them salt tablets",
+            "Encourage vigorous exercise",
+            "Wrap them in blankets"
+        ],
+        "correct": "Move them to a cooler environment",
+        "explanation": "Cooling down helps lower body temperature."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the universal sign for choking?",
+        "choices": [
+            "Hands clutched to the throat",
+            "Coughing loudly",
+            "Holding the stomach",
+            "Waving arms frantically"
+        ],
+        "correct": "Hands clutched to the throat",
+        "explanation": "This gesture indicates airway obstruction."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you treat a chemical burn to the eye?",
+        "choices": [
+            "Flush the eye with water for at least 15 minutes",
+            "Cover the eye and wait for EMS",
+            "Apply eye drops",
+            "Rub the eye gently"
+        ],
+        "correct": "Flush the eye with water for at least 15 minutes",
+        "explanation": "Immediate flushing dilutes and removes the chemical."
+    },
+    {
+        "category": "First Aid",
+        "question": "What should you do if someone has swallowed poison?",
+        "choices": [
+            "Induce vomiting immediately",
+            "Give them something to eat",
+            "Call Poison Control Center",
+            "Have them drink milk"
+        ],
+        "correct": "Call Poison Control Center",
+        "explanation": "Professional guidance is essential for appropriate care."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you recognize a stroke using the FAST method?",
+        "choices": [
+            "Face drooping, Arm weakness, Speech difficulty, Time to call 911",
+            "Feeling cold, Anxiety, Sweating, Tremors",
+            "Fainting, Agitation, Shortness of breath, Tingling",
+            "Fever, Aches, Sore throat, Tiredness"
+        ],
+        "correct": "Face drooping, Arm weakness, Speech difficulty, Time to call 911",
+        "explanation": "FAST helps identify stroke symptoms quickly."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the first step in controlling severe external bleeding?",
+        "choices": [
+            "Apply direct pressure",
+            "Apply a tourniquet",
+            "Elevate the injury",
+            "Apply a cold pack"
+        ],
+        "correct": "Apply direct pressure",
+        "explanation": "Direct pressure helps stop bleeding immediately."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you treat frostbite?",
+        "choices": [
+            "Rub the affected area vigorously",
+            "Immerse in warm (not hot) water",
+            "Apply ice packs",
+            "Expose to direct heat"
+        ],
+        "correct": "Immerse in warm (not hot) water",
+        "explanation": "Gentle warming helps restore circulation without causing damage."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the priority when treating someone with a suspected spinal injury?",
+        "choices": [
+            "Move them to a comfortable position",
+            "Keep them still and immobilize the spine",
+            "Have them sit up slowly",
+            "Apply a neck brace only"
+        ],
+        "correct": "Keep them still and immobilize the spine",
+        "explanation": "Preventing movement reduces the risk of further injury."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you recognize anaphylaxis?",
+        "choices": [
+            "Mild itching and redness",
+            "Difficulty breathing and swelling",
+            "Slight headache",
+            "Stomach cramps only"
+        ],
+        "correct": "Difficulty breathing and swelling",
+        "explanation": "These are signs of a severe allergic reaction requiring immediate care."
+    },
+    {
+        "category": "First Aid",
+        "question": "What should you do if someone is suspected of having a heart attack?",
+        "choices": [
+            "Have them lie down and elevate their feet",
+            "Give them water to drink",
+            "Call 911 and have them rest in a comfortable position",
+            "Perform abdominal thrusts"
+        ],
+        "correct": "Call 911 and have them rest in a comfortable position",
+        "explanation": "Immediate medical attention is crucial; rest reduces heart strain."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you treat someone with hypothermia?",
+        "choices": [
+            "Warm them quickly with hot water",
+            "Move them to a warm place and warm gradually",
+            "Give them alcohol to drink",
+            "Massage their limbs vigorously"
+        ],
+        "correct": "Move them to a warm place and warm gradually",
+        "explanation": "Gradual warming prevents shock and complications."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the best way to treat a snakebite?",
+        "choices": [
+            "Apply a tourniquet above the bite",
+            "Suck out the venom",
+            "Keep the bitten area still and below heart level",
+            "Apply ice directly to the bite"
+        ],
+        "correct": "Keep the bitten area still and below heart level",
+        "explanation": "This slows the spread of venom; seek medical help immediately."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you care for someone with a knocked-out tooth?",
+        "choices": [
+            "Rinse the tooth and scrub it clean",
+            "Place the tooth back in the socket if possible",
+            "Throw the tooth away",
+            "Keep the tooth dry"
+        ],
+        "correct": "Place the tooth back in the socket if possible",
+        "explanation": "Reinserting the tooth preserves it until dental care is received."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the proper response to an embedded object in a wound?",
+        "choices": [
+            "Remove the object immediately",
+            "Stabilize the object and seek medical help",
+            "Push the object further in",
+            "Ignore it if it's small"
+        ],
+        "correct": "Stabilize the object and seek medical help",
+        "explanation": "Removing it may cause more damage; stabilization prevents movement."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you treat someone with diabetic hypoglycemia (low blood sugar)?",
+        "choices": [
+            "Give them insulin",
+            "Provide a source of sugar",
+            "Have them exercise",
+            "Offer them water"
+        ],
+        "correct": "Provide a source of sugar",
+        "explanation": "Sugar intake can quickly raise blood glucose levels."
+    },
+    {
+        "category": "First Aid",
+        "question": "What should you do if someone is unresponsive but breathing normally?",
+        "choices": [
+            "Perform CPR",
+            "Place them in the recovery position",
+            "Leave them alone",
+            "Shake them to wake them up"
+        ],
+        "correct": "Place them in the recovery position",
+        "explanation": "This position maintains an open airway and prevents choking."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you treat a suspected concussion?",
+        "choices": [
+            "Have the person rest and monitor for symptoms",
+            "Allow them to sleep immediately",
+            "Encourage physical activity",
+            "Ignore minor symptoms"
+        ],
+        "correct": "Have the person rest and monitor for symptoms",
+        "explanation": "Rest helps recovery; monitoring ensures timely medical care if needed."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the recommended care for someone experiencing hyperventilation?",
+        "choices": [
+            "Have them breathe into a paper bag",
+            "Encourage slow, deep breaths",
+            "Give them a sedative",
+            "Ignore the symptoms"
+        ],
+        "correct": "Encourage slow, deep breaths",
+        "explanation": "Calming breathing restores normal carbon dioxide levels."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you treat a minor wound?",
+        "choices": [
+            "Clean with soap and water and apply a sterile dressing",
+            "Apply hydrogen peroxide and leave it open",
+            "Cover it without cleaning",
+            "Use alcohol to clean and scrub vigorously"
+        ],
+        "correct": "Clean with soap and water and apply a sterile dressing",
+        "explanation": "Proper cleaning prevents infection; dressing protects the wound."
+    },
+    {
+        "category": "First Aid",
+        "question": "What should you do for someone who has inhaled poisonous fumes?",
+        "choices": [
+            "Get them to fresh air immediately",
+            "Have them lie down in the area",
+            "Give them water to drink",
+            "Perform abdominal thrusts"
+        ],
+        "correct": "Get them to fresh air immediately",
+        "explanation": "Removing them from the source reduces exposure; seek medical help."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you respond to someone experiencing an asthma attack?",
+        "choices": [
+            "Encourage them to use their inhaler",
+            "Have them lie flat",
+            "Give them caffeine",
+            "Perform back blows"
+        ],
+        "correct": "Encourage them to use their inhaler",
+        "explanation": "Medication can relieve symptoms; stay with them until they're better."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the first thing you should do in any emergency situation?",
+        "choices": [
+            "Check the scene for safety",
+            "Begin CPR immediately",
+            "Call 911 without assessing",
+            "Move the victim to a different location"
+        ],
+        "correct": "Check the scene for safety",
+        "explanation": "Ensuring safety prevents additional victims and allows for effective help."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you care for a blister on the foot?",
+        "choices": [
+            "Pop it and apply ointment",
+            "Leave it intact and cover with a bandage",
+            "Remove the skin over it",
+            "Soak it in hot water"
+        ],
+        "correct": "Leave it intact and cover with a bandage",
+        "explanation": "Intact skin protects against infection; covering reduces friction."
+    },
+    {
+        "category": "First Aid",
+        "question": "What is the recommended action for someone with a suspected eye injury?",
+        "choices": [
+            "Remove any embedded objects",
+            "Flush the eye with water if appropriate and seek medical help",
+            "Cover the injured eye only",
+            "Apply pressure directly to the eyeball"
+        ],
+        "correct": "Flush the eye with water if appropriate and seek medical help",
+        "explanation": "Flushing removes irritants; medical evaluation is important."
+    },
+    {
+        "category": "First Aid",
+        "question": "How do you recognize internal bleeding?",
+        "choices": [
+            "Visible bruising and swelling",
+            "Excessive thirst",
+            "Rapid, weak pulse",
+            "All of the above"
+        ],
+        "correct": "All of the above",
+        "explanation": "These are common signs indicating internal bleeding."
+    },
+    {
+        "category": "First Aid",
+        "question": "What should you do if you suspect someone has been poisoned by ingestion?",
+        "choices": [
+            "Induce vomiting immediately",
+            "Give them water or milk",
+            "Call Poison Control for instructions",
+            "Have them eat bread"
+        ],
+        "correct": "Call Poison Control for instructions",
+        "explanation": "They provide specific guidance based on the substance."
+    },
+    {
+        "category": "First Aid",
+        "question": "How should you treat a penetrating chest injury?",
+        "choices": [
+            "Remove the object and apply pressure",
+            "Stabilize the object and call EMS",
+            "Apply a tight bandage around the chest",
+            "Have the person lie on their back"
+        ],
+        "correct": "Stabilize the object and call EMS",
+        "explanation": "Preventing movement reduces further damage; immediate medical care is necessary."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "When is it appropriate to use a tourniquet?",
+        "choices": [
+            "For any minor cut",
+            "When direct pressure fails to control severe bleeding",
+            "To treat a sprained ankle",
+            "As a first resort in bleeding"
+        ],
+        "correct": "When direct pressure fails to control severe bleeding",
+        "explanation": "Tourniquets are used when bleeding is life-threatening and not controlled by pressure."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Where should you apply a tourniquet?",
+        "choices": [
+            "Directly over the wound",
+            "2-3 inches above the wound, between the wound and the heart",
+            "Below the wound",
+            "At the wrist or ankle"
+        ],
+        "correct": "2-3 inches above the wound, between the wound and the heart",
+        "explanation": "Proper placement ensures effective blood flow restriction."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "How tight should a tourniquet be applied?",
+        "choices": [
+            "Tight enough to stop arterial blood flow and bleeding",
+            "Just enough to slow bleeding",
+            "As tight as possible, causing severe pain",
+            "Loose enough to insert a finger under it"
+        ],
+        "correct": "Tight enough to stop arterial blood flow and bleeding",
+        "explanation": "The goal is to stop bleeding; excessive tightness can cause tissue damage."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What material can be used to make an improvised tourniquet?",
+        "choices": [
+            "Narrow rope or wire",
+            "Wide band of cloth or belt",
+            "Elastic bandage",
+            "Thin shoelace"
+        ],
+        "correct": "Wide band of cloth or belt",
+        "explanation": "A wide band distributes pressure evenly, reducing tissue damage."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What is the purpose of a windlass in a tourniquet?",
+        "choices": [
+            "To secure the tourniquet in place",
+            "To tighten the tourniquet effectively",
+            "To mark the time of application",
+            "To cushion the skin"
+        ],
+        "correct": "To tighten the tourniquet effectively",
+        "explanation": "The windlass allows for controlled tightening to stop bleeding."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "How should you mark the time a tourniquet was applied?",
+        "choices": [
+            "Write it on the tourniquet or the person's forehead",
+            "Memorize the time",
+            "No need to record the time",
+            "Tell someone else to remember"
+        ],
+        "correct": "Write it on the tourniquet or the person's forehead",
+        "explanation": "Recording the time helps medical personnel manage tourniquet duration."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What is a potential complication of tourniquet use?",
+        "choices": [
+            "Increased bleeding",
+            "Infection at the wound site",
+            "Permanent nerve and tissue damage",
+            "Improved circulation"
+        ],
+        "correct": "Permanent nerve and tissue damage",
+        "explanation": "Prolonged use can lead to serious complications; use only when necessary."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Should you ever loosen a tourniquet once it is applied?",
+        "choices": [
+            "Yes, every 15 minutes",
+            "No, only medical professionals should remove it",
+            "Yes, if the person is in pain",
+            "Yes, to check if bleeding has stopped"
+        ],
+        "correct": "No, only medical professionals should remove it",
+        "explanation": "Loosening can cause severe bleeding; medical staff will manage removal."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "When wrapping a tourniquet, what width should the band be?",
+        "choices": [
+            "At least 1 inch (2.5 cm) wide",
+            "As narrow as possible",
+            "Width doesn't matter",
+            "Less than 0.5 inch (1.25 cm)"
+        ],
+        "correct": "At least 1 inch (2.5 cm) wide",
+        "explanation": "A wider band reduces tissue damage and is more effective."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Can a blood pressure cuff be used as a tourniquet?",
+        "choices": [
+            "Yes, if inflated above systolic pressure",
+            "No, it cannot be used",
+            "Yes, but only if deflated",
+            "Only in hospital settings"
+        ],
+        "correct": "Yes, if inflated above systolic pressure",
+        "explanation": "A cuff can serve as a tourniquet if used properly."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What should you do if bleeding persists after applying a tourniquet?",
+        "choices": [
+            "Apply a second tourniquet above the first",
+            "Loosen the tourniquet",
+            "Remove the tourniquet and reapply",
+            "Apply pressure to the tourniquet"
+        ],
+        "correct": "Apply a second tourniquet above the first",
+        "explanation": "An additional tourniquet can help control bleeding."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Is it acceptable to apply a tourniquet over clothing?",
+        "choices": [
+            "Yes, if removing clothing is not possible",
+            "No, never apply over clothing",
+            "Yes, it works better over clothing",
+            "Only over thick clothing"
+        ],
+        "correct": "Yes, if removing clothing is not possible",
+        "explanation": "In emergencies, applying over clothing is acceptable to save time."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "On which parts of the body should tourniquets not be applied?",
+        "choices": [
+            "Upper arms and thighs",
+            "Forearms and lower legs",
+            "Neck and torso",
+            "Anywhere is acceptable"
+        ],
+        "correct": "Neck and torso",
+        "explanation": "Tourniquets are for limbs only; applying to neck or torso is dangerous."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "How long can a tourniquet generally be left in place?",
+        "choices": [
+            "Indefinitely",
+            "No more than 2 hours",
+            "Up to 6 hours",
+            "Exactly 30 minutes"
+        ],
+        "correct": "No more than 2 hours",
+        "explanation": "Extended application increases risk of complications; medical care is needed promptly."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What is the primary purpose of a tourniquet?",
+        "choices": [
+            "To stop venous bleeding",
+            "To control severe arterial bleeding",
+            "To serve as a splint",
+            "To reduce swelling"
+        ],
+        "correct": "To control severe arterial bleeding",
+        "explanation": "Tourniquets are used when bleeding is life-threatening and uncontrollable by other means."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Why should you avoid using narrow materials like rope for a tourniquet?",
+        "choices": [
+            "They are more effective",
+            "They increase the risk of tissue damage",
+            "They are easier to apply",
+            "They reduce pain"
+        ],
+        "correct": "They increase the risk of tissue damage",
+        "explanation": "Narrow bands can cut into the skin and damage nerves and vessels."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "After applying a tourniquet, what should you do next?",
+        "choices": [
+            "Elevate the limb",
+            "Apply heat to the limb",
+            "Leave the person alone",
+            "Seek medical assistance immediately"
+        ],
+        "correct": "Seek medical assistance immediately",
+        "explanation": "Professional medical care is essential after a tourniquet is applied."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Should you cover a tourniquet with a bandage or clothing?",
+        "choices": [
+            "Yes, to keep it clean",
+            "No, it should remain visible",
+            "Yes, to keep the limb warm",
+            "Yes, to hide it from the victim"
+        ],
+        "correct": "No, it should remain visible",
+        "explanation": "Visibility alerts medical personnel to its presence and the need for care."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Can a tourniquet be used on children?",
+        "choices": [
+            "Yes, using the same guidelines as adults",
+            "No, never on children",
+            "Only if they are over 12 years old",
+            "Only with a doctor's permission"
+        ],
+        "correct": "Yes, using the same guidelines as adults",
+        "explanation": "In life-threatening bleeding, tourniquets can be used regardless of age."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What should you do if a manufactured tourniquet is not available?",
+        "choices": [
+            "Do not attempt to control bleeding",
+            "Use an improvised tourniquet with available materials",
+            "Wait for EMS to arrive",
+            "Apply direct pressure only"
+        ],
+        "correct": "Use an improvised tourniquet with available materials",
+        "explanation": "Improvised tourniquets can be effective in emergencies."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Why is it important not to remove a tourniquet once applied?",
+        "choices": [
+            "It can cause re-bleeding",
+            "The limb may swell",
+            "It is too difficult",
+            "It will cause pain"
+        ],
+        "correct": "It can cause re-bleeding",
+        "explanation": "Removal should be managed by medical professionals to prevent complications."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Which statement is true about tourniquet placement?",
+        "choices": [
+            "Place it as close to the heart as possible",
+            "Place it as close to the wound as possible",
+            "It doesn't matter where it's placed",
+            "Place it over a joint"
+        ],
+        "correct": "Place it as close to the wound as possible",
+        "explanation": "This minimizes the amount of tissue affected by restricted blood flow."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Should you continue to apply pressure to a wound after a tourniquet is in place?",
+        "choices": [
+            "No, the tourniquet is sufficient",
+            "Yes, to help control bleeding",
+            "Only if bleeding increases",
+            "Pressure is unnecessary"
+        ],
+        "correct": "Yes, to help control bleeding",
+        "explanation": "Additional pressure can assist in controlling any residual bleeding."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What is an indication that a tourniquet is effective?",
+        "choices": [
+            "Bleeding slows but does not stop",
+            "Bleeding stops completely",
+            "The limb turns blue",
+            "The person feels no pain"
+        ],
+        "correct": "Bleeding stops completely",
+        "explanation": "The goal is to halt arterial blood flow to stop bleeding."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Can you use a tourniquet for bleeding from the head or neck?",
+        "choices": [
+            "Yes, it's effective",
+            "No, tourniquets are not used on the head or neck",
+            "Only with professional supervision",
+            "Yes, but only for a short time"
+        ],
+        "correct": "No, tourniquets are not used on the head or neck",
+        "explanation": "Tourniquets on the neck can cause airway obstruction and are dangerous."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What is a commercial tourniquet designed for?",
+        "choices": [
+            "Specific and safe application to control severe bleeding",
+            "General use for any injury",
+            "Use only by medical professionals",
+            "Long-term application"
+        ],
+        "correct": "Specific and safe application to control severe bleeding",
+        "explanation": "Commercial tourniquets are designed for effectiveness and ease of use in emergencies."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Why should you avoid placing a tourniquet over a joint?",
+        "choices": [
+            "Joints are too hard to compress",
+            "It can cause dislocation",
+            "Joints provide uneven pressure",
+            "It's more painful"
+        ],
+        "correct": "Joints provide uneven pressure",
+        "explanation": "Placing over joints reduces effectiveness; apply above joints on the limb."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "What should you do if you don't have materials to make a tourniquet?",
+        "choices": [
+            "Accept that bleeding can't be controlled",
+            "Use direct pressure and elevation",
+            "Wait for EMS",
+            "Panic and do nothing"
+        ],
+        "correct": "Use direct pressure and elevation",
+        "explanation": "These methods can help control bleeding until help arrives."
+    },
+    {
+        "category": "Tourniquets - tightness, how to wrap",
+        "question": "Can you apply a tourniquet over a fracture?",
+        "choices": [
+            "Yes, it's acceptable",
+            "No, never over a fracture",
+            "Only if the fracture is open",
+            "Only on lower limbs"
+        ],
+        "correct": "Yes, it's acceptable",
+        "explanation": "Controlling bleeding takes priority; apply carefully if necessary."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What is the first action to take if you suspect someone is experiencing a drug overdose?",
+        "choices": [
+            "Induce vomiting",
+            "Call emergency medical services (911)",
+            "Give them food and water",
+            "Leave them to sleep it off"
+        ],
+        "correct": "Call emergency medical services (911)",
+        "explanation": "Immediate medical attention is crucial in overdose situations."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Which medication can reverse the effects of an opioid overdose?",
+        "choices": [
+            "Epinephrine",
+            "Naloxone (Narcan)",
+            "Aspirin",
+            "Activated charcoal"
+        ],
+        "correct": "Naloxone (Narcan)",
+        "explanation": "Naloxone is an opioid antagonist that can rapidly reverse overdose effects."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "How is Naloxone commonly administered in emergency situations?",
+        "choices": [
+            "Orally as a pill",
+            "Intravenously only",
+            "Intranasally via spray or injection",
+            "Topically on the skin"
+        ],
+        "correct": "Intranasally via spray or injection",
+        "explanation": "Intranasal administration is quick and accessible for non-medical responders."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What should you do if someone overdoses on benzodiazepines (e.g., Valium)?",
+        "choices": [
+            "Give them caffeine",
+            "Perform CPR if they are unresponsive and not breathing",
+            "Keep them awake by shaking them",
+            "Administer insulin"
+        ],
+        "correct": "Perform CPR if they are unresponsive and not breathing",
+        "explanation": "Support vital functions and seek medical help; specific antidotes require professional administration."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Why is it important not to leave an overdose victim alone?",
+        "choices": [
+            "They might run away",
+            "Their condition could worsen rapidly",
+            "They need someone to blame",
+            "It's a legal requirement"
+        ],
+        "correct": "Their condition could worsen rapidly",
+        "explanation": "Continuous monitoring allows for immediate action if their status changes."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Which of the following is NOT a sign of opioid overdose?",
+        "choices": [
+            "Slow or no breathing",
+            "Pinpoint pupils",
+            "Rapid heart rate",
+            "Unconsciousness"
+        ],
+        "correct": "Rapid heart rate",
+        "explanation": "Opioid overdose typically causes slowed heart rate, not rapid."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "If Naloxone is administered to someone who is not experiencing an opioid overdose, what will happen?",
+        "choices": [
+            "It will cause harm",
+            "It will have no effect",
+            "It will induce an overdose",
+            "It will make them hyperactive"
+        ],
+        "correct": "It will have no effect",
+        "explanation": "Naloxone has no effect if opioids are not present."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What position should you place an unconscious overdose victim in if they are breathing?",
+        "choices": [
+            "On their back",
+            "Recovery position (on their side)",
+            "Sitting upright",
+            "Face down"
+        ],
+        "correct": "Recovery position (on their side)",
+        "explanation": "This position keeps the airway open and prevents aspiration."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Which of these is a common symptom of stimulant overdose (e.g., cocaine)?",
+        "choices": [
+            "Extreme drowsiness",
+            "Chest pain and rapid heartbeat",
+            "Slow breathing",
+            "Pinpoint pupils"
+        ],
+        "correct": "Chest pain and rapid heartbeat",
+        "explanation": "Stimulant overdose increases heart rate and can cause cardiac issues."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What is the role of activated charcoal in overdose management?",
+        "choices": [
+            "Neutralizes acids",
+            "Absorbs toxins in the gastrointestinal tract",
+            "Induces vomiting",
+            "Provides essential nutrients"
+        ],
+        "correct": "Absorbs toxins in the gastrointestinal tract",
+        "explanation": "Activated charcoal binds to certain drugs, reducing absorption."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "When administering first aid for suspected alcohol poisoning, what should you avoid?",
+        "choices": [
+            "Letting the person sleep it off",
+            "Monitoring their breathing",
+            "Placing them in the recovery position",
+            "Calling for medical help"
+        ],
+        "correct": "Letting the person sleep it off",
+        "explanation": "Alcohol poisoning can be fatal; they need medical attention."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Which substance is used by medical professionals to counteract benzodiazepine overdose?",
+        "choices": [
+            "Flumazenil",
+            "Naloxone",
+            "Epinephrine",
+            "Insulin"
+        ],
+        "correct": "Flumazenil",
+        "explanation": "Flumazenil is a benzodiazepine antagonist used in clinical settings."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What information is helpful to provide to emergency responders in an overdose situation?",
+        "choices": [
+            "The victim's favorite food",
+            "Details about the substance taken, if known",
+            "Their employment status",
+            "Their personal opinions"
+        ],
+        "correct": "Details about the substance taken, if known",
+        "explanation": "Knowing the substance helps tailor medical treatment."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Is it safe to induce vomiting in a suspected overdose victim?",
+        "choices": [
+            "Yes, always",
+            "No, unless instructed by Poison Control",
+            "Yes, if they are conscious",
+            "No, never induce vomiting"
+        ],
+        "correct": "No, unless instructed by Poison Control",
+        "explanation": "Inducing vomiting can be dangerous; follow professional guidance."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What is the Good Samaritan Law in relation to overdose emergencies?",
+        "choices": [
+            "It protects individuals who assist in an emergency from legal liability",
+            "It requires payment for aid provided",
+            "It penalizes those who help overdose victims",
+            "It mandates that only professionals can assist"
+        ],
+        "correct": "It protects individuals who assist in an emergency from legal liability",
+        "explanation": "This law encourages bystanders to help without fear of legal repercussions."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Which of the following is a sign of methamphetamine overdose?",
+        "choices": [
+            "Extreme sleepiness",
+            "Hyperthermia (elevated body temperature)",
+            "Slow pulse",
+            "Hypotension (low blood pressure)"
+        ],
+        "correct": "Hyperthermia (elevated body temperature)",
+        "explanation": "Stimulant overdose can cause dangerously high body temperatures."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Why is it important to wear personal protective equipment (PPE) when assisting an overdose victim?",
+        "choices": [
+            "To prevent the spread of infectious diseases",
+            "To look professional",
+            "It's legally required",
+            "To avoid being identified"
+        ],
+        "correct": "To prevent the spread of infectious diseases",
+        "explanation": "PPE like gloves protect both the rescuer and the victim."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What should you avoid giving to someone suspected of an overdose?",
+        "choices": [
+            "Food or drink",
+            "Assistance",
+            "Reassurance",
+            "Comfortable positioning"
+        ],
+        "correct": "Food or drink",
+        "explanation": "Ingesting anything could cause choking or interfere with medical treatment."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "How can you tell if someone is experiencing a fentanyl overdose?",
+        "choices": [
+            "They are hyperactive",
+            "They have pinpoint pupils and severe respiratory depression",
+            "They exhibit uncontrollable laughter",
+            "They have increased appetite"
+        ],
+        "correct": "They have pinpoint pupils and severe respiratory depression",
+        "explanation": "Fentanyl is a potent opioid causing significant breathing issues."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What is the primary goal when providing first aid to an overdose victim?",
+        "choices": [
+            "To administer medication",
+            "To support vital functions until professional help arrives",
+            "To punish them for drug use",
+            "To gather evidence"
+        ],
+        "correct": "To support vital functions until professional help arrives",
+        "explanation": "Maintaining airway, breathing, and circulation is critical."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Is it necessary to stay with the overdose victim after administering Naloxone?",
+        "choices": [
+            "No, they will be fine",
+            "Yes, effects may wear off and symptoms can return",
+            "No, EMS will take over immediately",
+            "Yes, but only until they wake up"
+        ],
+        "correct": "Yes, effects may wear off and symptoms can return",
+        "explanation": "Naloxone's duration may be shorter than the opioid's; monitoring is essential."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Which of these is a critical sign of stimulant overdose?",
+        "choices": [
+            "Bradycardia (slow heart rate)",
+            "Hypertension (high blood pressure)",
+            "Hypothermia (low body temperature)",
+            "Hypoglycemia (low blood sugar)"
+        ],
+        "correct": "Hypertension (high blood pressure)",
+        "explanation": "Stimulants can elevate blood pressure to dangerous levels."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Can you legally administer Naloxone to someone overdosing in most states?",
+        "choices": [
+            "Yes, Good Samaritan laws protect you",
+            "No, only medical professionals can",
+            "Only if you have a prescription",
+            "Only to family members"
+        ],
+        "correct": "Yes, Good Samaritan laws protect you",
+        "explanation": "Many places allow laypersons to administer Naloxone in emergencies."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What should you do if the overdose victim has a seizure?",
+        "choices": [
+            "Hold them down",
+            "Place an object in their mouth",
+            "Protect them from injury and call for help",
+            "Ignore it and focus on breathing"
+        ],
+        "correct": "Protect them from injury and call for help",
+        "explanation": "Ensuring safety without restraining is important during a seizure."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Why is it important to inform EMS about all substances involved in an overdose?",
+        "choices": [
+            "To ensure accurate and effective treatment",
+            "For legal prosecution",
+            "To notify the media",
+            "It's not important"
+        ],
+        "correct": "To ensure accurate and effective treatment",
+        "explanation": "Knowledge of substances guides medical interventions."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Which symptom indicates the need for immediate CPR in an overdose victim?",
+        "choices": [
+            "Snoring sounds",
+            "Gurgling",
+            "No breathing and no pulse",
+            "Vomiting"
+        ],
+        "correct": "No breathing and no pulse",
+        "explanation": "Absence of breathing and pulse requires CPR to sustain life."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Should you attempt to make an overdose victim walk around to keep them awake?",
+        "choices": [
+            "Yes, movement helps",
+            "No, it can worsen their condition",
+            "Yes, if they are responsive",
+            "It doesn't matter"
+        ],
+        "correct": "No, it can worsen their condition",
+        "explanation": "Exertion can increase risks; keep them still and comfortable."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "What is the recommended action if an overdose victim vomits?",
+        "choices": [
+            "Leave them on their back",
+            "Clean them up and ignore it",
+            "Turn them on their side to prevent choking",
+            "Give them water"
+        ],
+        "correct": "Turn them on their side to prevent choking",
+        "explanation": "This position helps keep the airway clear."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Is it important to check the overdose victim's airway for obstructions?",
+        "choices": [
+            "Yes, to ensure they can breathe",
+            "No, it's unnecessary",
+            "Only if they are coughing",
+            "Only if EMS instructs you"
+        ],
+        "correct": "Yes, to ensure they can breathe",
+        "explanation": "An open airway is vital for oxygenation."
+    },
+    {
+        "category": "Drug overdose - how to counteract drugs",
+        "question": "Why should you avoid confrontational behavior with an overdose victim who is agitated?",
+        "choices": [
+            "It can escalate the situation",
+            "They might leave",
+            "It's not polite",
+            "They will become sleepy"
+        ],
+        "correct": "It can escalate the situation",
+        "explanation": "Calm reassurance helps keep the situation under control."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You find an unconscious adult on the ground. What is your first action?",
+        "choices": [
+            "Check the scene for safety",
+            "Start CPR immediately",
+            "Call 911",
+            "Look for a medical ID"
+        ],
+        "correct": "Check the scene for safety",
+        "explanation": "Ensuring your safety allows you to provide effective help."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A coworker is complaining of chest pain and shortness of breath. What should you do?",
+        "choices": [
+            "Ignore it; it's probably nothing",
+            "Give them water",
+            "Call 911 and have them rest",
+            "Have them walk around"
+        ],
+        "correct": "Call 911 and have them rest",
+        "explanation": "These are signs of a possible heart attack requiring immediate care."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You see someone choking but they are coughing forcefully. What should you do?",
+        "choices": [
+            "Perform abdominal thrusts",
+            "Encourage them to keep coughing",
+            "Hit them on the back",
+            "Do nothing"
+        ],
+        "correct": "Encourage them to keep coughing",
+        "explanation": "Effective coughing can dislodge the object without intervention."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "During a picnic, a person collapses and is unresponsive. No one nearby knows them. What is your best course of action?",
+        "choices": [
+            "Check responsiveness and breathing, call 911, and begin CPR if needed",
+            "Wait for someone who knows them",
+            "Look through their belongings",
+            "Leave the area"
+        ],
+        "correct": "Check responsiveness and breathing, call 911, and begin CPR if needed",
+        "explanation": "Immediate action can save a life in emergency situations."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A child falls off playground equipment and is crying with a visibly deformed arm. What should you do?",
+        "choices": [
+            "Move the arm to its normal position",
+            "Immobilize the arm and seek medical help",
+            "Give them pain medication",
+            "Tell them to shake it off"
+        ],
+        "correct": "Immobilize the arm and seek medical help",
+        "explanation": "Stabilizing prevents further injury; medical evaluation is necessary."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "At a restaurant, someone suddenly grabs their throat and can't speak. What is the appropriate response?",
+        "choices": [
+            "Perform the Heimlich maneuver (abdominal thrusts)",
+            "Offer them water",
+            "Call their name loudly",
+            "Wait to see if they recover"
+        ],
+        "correct": "Perform the Heimlich maneuver (abdominal thrusts)",
+        "explanation": "Inability to speak indicates airway obstruction requiring immediate action."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "An elderly neighbor appears confused and is wandering outside in cold weather without a coat. What should you do?",
+        "choices": [
+            "Ignore them",
+            "Bring them inside and contact family or authorities",
+            "Scold them for being outside",
+            "Give them directions back home"
+        ],
+        "correct": "Bring them inside and contact family or authorities",
+        "explanation": "They may be experiencing hypothermia or cognitive issues; safety is important."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You witness a car accident, and one of the drivers is bleeding severely from the leg. What is your immediate action?",
+        "choices": [
+            "Apply direct pressure to the wound",
+            "Move them out of the car",
+            "Take photos for evidence",
+            "Leave the scene"
+        ],
+        "correct": "Apply direct pressure to the wound",
+        "explanation": "Controlling bleeding is critical; ensure the scene is safe first."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A coworker spills a chemical on their skin and it starts to burn. What should you do?",
+        "choices": [
+            "Brush off the chemical and rinse with water",
+            "Cover it with a bandage",
+            "Apply lotion",
+            "Ignore it"
+        ],
+        "correct": "Brush off the chemical and rinse with water",
+        "explanation": "Removing the chemical and flushing reduces damage."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "During a sports event, a player collapses without contact. They are unconscious and not breathing. What should you do?",
+        "choices": [
+            "Check for a pulse and begin CPR",
+            "Wait for the coach",
+            "Move them to the sideline",
+            "Sprinkle water on their face"
+        ],
+        "correct": "Check for a pulse and begin CPR",
+        "explanation": "Immediate CPR can be life-saving in sudden cardiac events."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "Someone is stung by a bee and begins showing signs of an allergic reaction. What is the priority action?",
+        "choices": [
+            "Remove the stinger and call 911",
+            "Apply ice and wait",
+            "Have them lie down",
+            "Give them water"
+        ],
+        "correct": "Remove the stinger and call 911",
+        "explanation": "Prompt action is needed in potential anaphylaxis."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "At a party, a guest complains of dizziness and then faints. What should you do?",
+        "choices": [
+            "Check for breathing and pulse, and elevate their legs",
+            "Give them something to eat",
+            "Leave them alone to recover",
+            "Slap their face gently"
+        ],
+        "correct": "Check for breathing and pulse, and elevate their legs",
+        "explanation": "Assessing vital signs and improving circulation aids recovery."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A coworker accidentally cuts their hand on a piece of glass, and the wound is bleeding steadily. What is your immediate response?",
+        "choices": [
+            "Rinse the wound under running water",
+            "Apply direct pressure with a clean cloth",
+            "Wrap it tightly with a tourniquet",
+            "Have them keep moving their hand"
+        ],
+        "correct": "Apply direct pressure with a clean cloth",
+        "explanation": "Direct pressure helps control bleeding effectively."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You are hiking and your friend twists their ankle and cannot walk. There is no cell service. What should you do?",
+        "choices": [
+            "Leave them to get help",
+            "Support the ankle, make them comfortable, and seek assistance together",
+            "Force them to walk it off",
+            "Ignore the injury"
+        ],
+        "correct": "Support the ankle, make them comfortable, and seek assistance together",
+        "explanation": "Staying together ensures safety; immobilize the ankle as much as possible."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "During a thunderstorm, someone is struck by lightning and collapses. What is your first action?",
+        "choices": [
+            "Check the scene for safety and then assess the victim",
+            "Move them immediately",
+            "Perform CPR without checking",
+            "Wait for rain to stop"
+        ],
+        "correct": "Check the scene for safety and then assess the victim",
+        "explanation": "Ensuring safety prevents additional victims; assess and provide care."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "At a construction site, a worker falls from a height and is unconscious with potential spinal injuries. What should you avoid doing?",
+        "choices": [
+            "Moving them unnecessarily",
+            "Calling 911",
+            "Checking for breathing",
+            "Monitoring vital signs"
+        ],
+        "correct": "Moving them unnecessarily",
+        "explanation": "Movement could worsen spinal injuries; keep them still and await EMS."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You observe someone having difficulty breathing and wheezing after eating a meal. They do not have an inhaler. What should you suspect?",
+        "choices": [
+            "Asthma attack",
+            "Anaphylactic reaction",
+            "Heart attack",
+            "Panic attack"
+        ],
+        "correct": "Anaphylactic reaction",
+        "explanation": "Symptoms after eating suggest a severe allergic reaction."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A person in your office starts slurring their speech and one side of their face droops. What is the appropriate action?",
+        "choices": [
+            "Call 911 immediately",
+            "Give them water",
+            "Ignore and continue working",
+            "Ask them to walk around"
+        ],
+        "correct": "Call 911 immediately",
+        "explanation": "These are signs of a stroke; rapid medical attention is critical."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "During a family gathering, someone complains of severe abdominal pain and then collapses. What should you do?",
+        "choices": [
+            "Give them food",
+            "Have them sit up",
+            "Check responsiveness and call 911",
+            "Let them rest"
+        ],
+        "correct": "Check responsiveness and call 911",
+        "explanation": "Immediate assessment and emergency services are necessary."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You find a child alone who appears lost and frightened. What is the best approach?",
+        "choices": [
+            "Offer assistance and contact authorities",
+            "Ignore the child",
+            "Take the child with you",
+            "Scold them for being alone"
+        ],
+        "correct": "Offer assistance and contact authorities",
+        "explanation": "Ensuring the child's safety and notifying proper authorities is appropriate."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "At a beach, someone is pulled from the water and is not breathing. What is your priority?",
+        "choices": [
+            "Begin rescue breaths immediately",
+            "Roll them onto their stomach",
+            "Warm them up first",
+            "Wait for lifeguards"
+        ],
+        "correct": "Begin rescue breaths immediately",
+        "explanation": "In drowning, oxygenation is critical; start rescue breathing."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You witness a cyclist being hit by a car. The cyclist is awake but disoriented. What should you do?",
+        "choices": [
+            "Remove their helmet",
+            "Keep them still and call 911",
+            "Have them stand up",
+            "Give them something to drink"
+        ],
+        "correct": "Keep them still and call 911",
+        "explanation": "They may have injuries; minimizing movement and getting help is important."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A neighbor's child ingests a household cleaner. What is your immediate action?",
+        "choices": [
+            "Make them drink milk",
+            "Induce vomiting",
+            "Call Poison Control or 911",
+            "Wait to see if symptoms develop"
+        ],
+        "correct": "Call Poison Control or 911",
+        "explanation": "Professional guidance is necessary for poisoning incidents."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "In a public place, someone collapses and you suspect they are diabetic. What should you look for?",
+        "choices": [
+            "Medical alert jewelry",
+            "Their driver's license",
+            "Their wallet",
+            "Their phone"
+        ],
+        "correct": "Medical alert jewelry",
+        "explanation": "Medical IDs can provide crucial health information."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "At a park, a person is acting erratically and appears confused. How should you respond?",
+        "choices": [
+            "Approach calmly and offer help",
+            "Confront them aggressively",
+            "Call the police immediately",
+            "Ignore them"
+        ],
+        "correct": "Approach calmly and offer help",
+        "explanation": "They may need assistance; a calm approach is safest."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A colleague accidentally inhales fumes and is coughing uncontrollably. What is your first action?",
+        "choices": [
+            "Get them to fresh air immediately",
+            "Give them water",
+            "Have them lie down",
+            "Ignore the coughing"
+        ],
+        "correct": "Get them to fresh air immediately",
+        "explanation": "Fresh air can alleviate symptoms; further medical evaluation may be needed."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "During a heatwave, someone shows signs of heat stroke. What should you do?",
+        "choices": [
+            "Move them to a cool place and cool them down",
+            "Give them caffeinated drinks",
+            "Encourage physical activity",
+            "Wrap them in blankets"
+        ],
+        "correct": "Move them to a cool place and cool them down",
+        "explanation": "Rapid cooling is essential in treating heat stroke."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "A person is found lying on the sidewalk with no visible injuries but is unresponsive. What is your initial step?",
+        "choices": [
+            "Check for responsiveness and breathing",
+            "Search their pockets",
+            "Move them indoors",
+            "Leave them alone"
+        ],
+        "correct": "Check for responsiveness and breathing",
+        "explanation": "Assessing their condition determines the next steps for care."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You see smoke coming from a building, and people are inside unaware. What should you do?",
+        "choices": [
+            "Activate the fire alarm and call 911",
+            "Run inside to warn them",
+            "Wait outside",
+            "Drive away"
+        ],
+        "correct": "Activate the fire alarm and call 911",
+        "explanation": "Alerting occupants and authorities is the safest action."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "At a social event, someone suddenly becomes pale and clammy and complains of chest discomfort. What might this indicate?",
+        "choices": [
+            "Indigestion",
+            "Heart attack",
+            "Dehydration",
+            "Hypothermia"
+        ],
+        "correct": "Heart attack",
+        "explanation": "These are classic signs of a heart attack; immediate action is required."
+    },
+    {
+        "category": "Situational analysis",
+        "question": "You notice a coworker has a deep cut and is bleeding profusely. They insist they are fine. What should you do?",
+        "choices": [
+            "Respect their wishes",
+            "Apply pressure and encourage medical attention",
+            "Ignore the situation",
+            "Report them to HR"
+        ],
+        "correct": "Apply pressure and encourage medical attention",
+        "explanation": "Serious bleeding needs immediate care despite personal objections."
+    }
+]

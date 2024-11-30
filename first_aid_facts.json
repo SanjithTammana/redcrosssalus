@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "term": "CPR Compression Rate",
+    "definition": "100-120 compressions per minute for effective CPR."
+  },
+  {
+    "id": 2,
+    "term": "Signs of Stroke",
+    "definition": "Remember FAST: Face drooping, Arm weakness, Speech difficulty, Time to call 911."
+  },
+  {
+    "id": 3,
+    "term": "Treatment for Burns",
+    "definition": "Cool the burn under cool (not cold) running water for at least 10 minutes."
+  },
+  {
+    "id": 4,
+    "term": "Heimlich Maneuver",
+    "definition": "Used to relieve choking in a conscious adult or child."
+  },
+  {
+    "id": 5,
+    "term": "Signs of Shock",
+    "definition": "Pale, cool, clammy skin; rapid pulse; rapid breathing; weakness or fatigue."
+  },
+  {
+    "id": 6,
+    "term": "Tourniquet Use",
+    "definition": "Applied when direct pressure fails to control severe bleeding."
+  },
+  {
+    "id": 7,
+    "term": "Anaphylaxis Treatment",
+    "definition": "Administer an epinephrine auto-injector if available and call 911."
+  },
+  {
+    "id": 8,
+    "term": "Recovery Position",
+    "definition": "Place an unresponsive but breathing person on their side to keep airway open."
+  },
+  {
+    "id": 9,
+    "term": "RICE Method",
+    "definition": "Rest, Ice, Compression, Elevation; used for sprains and strains."
+  },
+  {
+    "id": 10,
+    "term": "Signs of Hypoglycemia",
+    "definition": "Sweating, trembling, hunger, confusion; provide a source of sugar."
+  },
+  {
+    "id": 11,
+    "term": "Defibrillation Purpose",
+    "definition": "Restores normal heart rhythm during cardiac arrest using an AED."
+  },
+  {
+    "id": 12,
+    "term": "Treating Nosebleeds",
+    "definition": "Tilt head forward and pinch the soft part of the nose for 10 minutes."
+  },
+  {
+    "id": 13,
+    "term": "Treating Bee Stings",
+    "definition": "Remove stinger by scraping with a flat object; avoid squeezing."
+  },
+  {
+    "id": 14,
+    "term": "Signs of Heat Stroke",
+    "definition": "High body temperature, hot dry skin, rapid pulse, confusion; medical emergency."
+  },
+  {
+    "id": 15,
+    "term": "Treating Frostbite",
+    "definition": "Gradually warm affected area using warm water (37-39°C or 99-102°F)."
+  },
+  {
+    "id": 16,
+    "term": "Symptoms of Concussion",
+    "definition": "Headache, confusion, dizziness, nausea; seek medical attention."
+  },
+  {
+    "id": 17,
+    "term": "Recognizing Heart Attack",
+    "definition": "Chest pain, shortness of breath, sweating; call emergency services."
+  },
+  {
+    "id": 18,
+    "term": "Treating Chemical Burns",
+    "definition": "Flush affected area with cool running water for at least 20 minutes."
+  },
+  {
+    "id": 19,
+    "term": "Choking in Infants",
+    "definition": "Give 5 back slaps followed by 5 chest thrusts; support the head."
+  },
+  {
+    "id": 20,
+    "term": "Treating Seizures",
+    "definition": "Protect from injury, do not restrain, time the seizure; seek help if needed."
+  },
+  {
+    "id": 21,
+    "term": "Checking Responsiveness",
+    "definition": "Gently tap and shout to see if the person responds."
+  },
+  {
+    "id": 22,
+    "term": "Signs of Internal Bleeding",
+    "definition": "Bruising, swelling, pain, signs of shock; seek immediate medical care."
+  },
+  {
+    "id": 23,
+    "term": "Using an Epinephrine Auto-Injector",
+    "definition": "Inject into the outer thigh; hold for 10 seconds."
+  },
+  {
+    "id": 24,
+    "term": "Treatment for Poisoning",
+    "definition": "Call Poison Control; do not induce vomiting unless instructed."
+  },
+  {
+    "id": 25,
+    "term": "Handling Knocked-Out Teeth",
+    "definition": "Keep tooth moist, place back in socket if possible, see a dentist immediately."
+  },
+  {
+    "id": 26,
+    "term": "Signs of Infection",
+    "definition": "Redness, swelling, warmth, pus, increased pain at wound site."
+  },
+  {
+    "id": 27,
+    "term": "Treating Eye Injuries",
+    "definition": "Do not touch or rub; cover both eyes and seek medical attention."
+  },
+  {
+    "id": 28,
+    "term": "Hyperventilation Response",
+    "definition": "Encourage slow, deep breathing into cupped hands."
+  },
+  {
+    "id": 29,
+    "term": "Handling Fractures",
+    "definition": "Immobilize the area; do not attempt to realign bones."
+  },
+  {
+    "id": 30,
+    "term": "Snakebite First Aid",
+    "definition": "Keep person calm; immobilize limb; keep bite below heart level."
+  },
+  {
+    "id": 31,
+    "term": "Signs of Meningitis",
+    "definition": "Stiff neck, headache, fever, sensitivity to light; urgent medical care needed."
+  },
+  {
+    "id": 32,
+    "term": "Treating Jellyfish Stings",
+    "definition": "Rinse with vinegar to neutralize venom; avoid fresh water."
+  },
+  {
+    "id": 33,
+    "term": "Symptoms of Dehydration",
+    "definition": "Thirst, dry mouth, dark urine, dizziness; rehydrate with fluids."
+  },
+  {
+    "id": 34,
+    "term": "Signs of Heat Exhaustion",
+    "definition": "Heavy sweating, weakness, cold pale skin; move to cool place."
+  },
+  {
+    "id": 35,
+    "term": "Treating Sprains",
+    "definition": "Use RICE method: Rest, Ice, Compression, Elevation."
+  },
+  {
+    "id": 36,
+    "term": "Burn Severity Classification",
+    "definition": "First-degree (superficial), second-degree (partial thickness), third-degree (full thickness)."
+  },
+  {
+    "id": 37,
+    "term": "Treating Hypothermia",
+    "definition": "Warm the person gradually; remove wet clothing; offer warm drinks if conscious."
+  },
+  {
+    "id": 38,
+    "term": "First Aid for Diabetic Emergency",
+    "definition": "Provide sugary drink or snack if hypoglycemia is suspected."
+  },
+  {
+    "id": 39,
+    "term": "Handling Amputations",
+    "definition": "Control bleeding; preserve amputated part in clean, moist cloth; keep cool."
+  },
+  {
+    "id": 40,
+    "term": "Signs of Severe Allergic Reaction",
+    "definition": "Difficulty breathing, swelling of face or throat, hives; use epinephrine."
+  },
+  {
+    "id": 41,
+    "term": "First Aid for Drowning",
+    "definition": "Begin rescue breaths as soon as possible; remove from water if safe."
+  },
+  {
+    "id": 42,
+    "term": "Treating Blisters",
+    "definition": "Keep clean and dry; do not pop; cover with protective bandage."
+  },
+  {
+    "id": 43,
+    "term": "Using an AED",
+    "definition": "Turn on AED; follow voice prompts; apply pads to bare chest."
+  },
+  {
+    "id": 44,
+    "term": "Symptoms of Carbon Monoxide Poisoning",
+    "definition": "Headache, dizziness, weakness, nausea; move to fresh air immediately."
+  },
+  {
+    "id": 45,
+    "term": "Treating Electrical Burns",
+    "definition": "Ensure power source is off; do not touch victim until safe; call emergency services."
+  },
+  {
+    "id": 46,
+    "term": "Signs of Infection in Wounds",
+    "definition": "Red streaks leading from wound, fever, increased pain; seek medical attention."
+  },
+  {
+    "id": 47,
+    "term": "Treating Ear Injuries",
+    "definition": "Do not insert anything; cover lightly; seek medical help."
+  },
+  {
+    "id": 48,
+    "term": "Symptoms of Appendicitis",
+    "definition": "Abdominal pain starting near navel, moving to lower right side; nausea; fever."
+  },
+  {
+    "id": 49,
+    "term": "First Aid for Asthma Attack",
+    "definition": "Help administer inhaler; encourage slow breathing; seek help if severe."
+  },
+  {
+    "id": 50,
+    "term": "Handling Head Injuries",
+    "definition": "Keep person still; monitor consciousness; seek medical attention."
+  },
+  {
+    "id": 51,
+    "term": "Treating Foreign Objects in the Nose",
+    "definition": "Do not probe; have person breathe through mouth; seek medical help."
+  },
+  {
+    "id": 52,
+    "term": "Symptoms of Food Poisoning",
+    "definition": "Nausea, vomiting, diarrhea, abdominal cramps; stay hydrated."
+  },
+  {
+    "id": 53,
+    "term": "Handling Fainting",
+    "definition": "Lay person flat; elevate legs; check for breathing; loosen tight clothing."
+  },
+  {
+    "id": 54,
+    "term": "Signs of Pneumonia",
+    "definition": "Cough with phlegm, fever, chills, difficulty breathing; seek medical care."
+  },
+  {
+    "id": 55,
+    "term": "Treating Insect Bites",
+    "definition": "Wash area; apply cold compress; monitor for allergic reactions."
+  },
+  {
+    "id": 56,
+    "term": "First Aid for Hypoxia",
+    "definition": "Ensure open airway; provide oxygen if trained; seek emergency help."
+  },
+  {
+    "id": 57,
+    "term": "Handling Tooth Injuries",
+    "definition": "For chipped tooth, save pieces; see dentist promptly."
+  },
+  {
+    "id": 58,
+    "term": "Symptoms of Sepsis",
+    "definition": "Fever, rapid heart rate, rapid breathing, confusion; medical emergency."
+  },
+  {
+    "id": 59,
+    "term": "Treating Strains",
+    "definition": "Use RICE method; avoid activities that cause pain."
+  },
+  {
+    "id": 60,
+    "term": "Recognizing Gallstones",
+    "definition": "Severe abdominal pain, nausea, vomiting; seek medical evaluation."
+  },
+  {
+    "id": 61,
+    "term": "Treating Minor Cuts and Scrapes",
+    "definition": "Clean with soap and water; apply antibiotic ointment; cover with a sterile bandage."
+  },
+  {
+    "id": 62,
+    "term": "Signs of Anemia",
+    "definition": "Fatigue, pale skin, shortness of breath; may require medical evaluation."
+  },
+  {
+    "id": 63,
+    "term": "Handling Chemical Eye Injuries",
+    "definition": "Flush eye with clean water for at least 15 minutes; seek immediate medical help."
+  },
+  {
+    "id": 64,
+    "term": "Treating Heat Cramps",
+    "definition": "Rest in cool place; drink electrolyte-rich fluids; stretch affected muscles gently."
+  },
+  {
+    "id": 65,
+    "term": "Symptoms of Hyperglycemia",
+    "definition": "Frequent urination, increased thirst, blurred vision; seek medical advice."
+  },
+  {
+    "id": 66,
+    "term": "First Aid for Dizziness",
+    "definition": "Have person sit or lie down; avoid sudden movements; monitor condition."
+  },
+  {
+    "id": 67,
+    "term": "Recognizing Pneumothorax",
+    "definition": "Sudden chest pain, shortness of breath; requires emergency medical care."
+  },
+  {
+    "id": 68,
+    "term": "Treating Scorpion Stings",
+    "definition": "Wash area with soap and water; apply cold compress; seek medical attention if severe."
+  },
+  {
+    "id": 69,
+    "term": "Symptoms of Kidney Stones",
+    "definition": "Severe back or abdominal pain, blood in urine; medical evaluation needed."
+  },
+  {
+    "id": 70,
+    "term": "Handling Alcohol Poisoning",
+    "definition": "Call emergency services; keep person awake; do not leave them alone."
+  },
+  {
+    "id": 71,
+    "term": "Treating Splinters",
+    "definition": "Clean area; use sterilized tweezers to remove; wash and bandage."
+  },
+  {
+    "id": 72,
+    "term": "Symptoms of Rabies",
+    "definition": "Fever, headache, confusion after animal bite; urgent medical care required."
+  },
+  {
+    "id": 73,
+    "term": "First Aid for Ear Infections",
+    "definition": "Seek medical advice; over-the-counter pain relief may help symptoms."
+  },
+  {
+    "id": 74,
+    "term": "Recognizing Tetanus",
+    "definition": "Muscle stiffness, jaw lock; preventable with vaccination; seek medical care."
+  },
+  {
+    "id": 75,
+    "term": "Treating Animal Bites",
+    "definition": "Wash wound thoroughly; control bleeding; seek medical attention."
+  },
+  {
+    "id": 76,
+    "term": "Symptoms of Lyme Disease",
+    "definition": "Bull's-eye rash, fever, fatigue after tick bite; medical evaluation needed."
+  },
+  {
+    "id": 77,
+    "term": "Handling Panic Attacks",
+    "definition": "Remain calm; encourage slow breathing; reassure the person."
+  },
+  {
+    "id": 78,
+    "term": "Treating Hives",
+    "definition": "Identify and remove trigger; antihistamines may relieve symptoms."
+  },
+  {
+    "id": 79,
+    "term": "First Aid for Muscle Cramps",
+    "definition": "Gently stretch and massage muscle; apply heat or cold as needed."
+  },
+  {
+    "id": 80,
+    "term": "Symptoms of Hypothermia",
+    "definition": "Shivering, slurred speech, confusion; warm person gradually."
+  },
+  {
+    "id": 81,
+    "term": "Recognizing Gastroenteritis",
+    "definition": "Nausea, vomiting, diarrhea; maintain hydration; seek help if severe."
+  },
+  {
+    "id": 82,
+    "term": "Treating Wasp Stings",
+    "definition": "Wash area; apply cold pack; monitor for allergic reactions."
+  },
+  {
+    "id": 83,
+    "term": "Handling Overdose",
+    "definition": "Call emergency services; monitor breathing; provide Naloxone if opioids involved."
+  },
+  {
+    "id": 84,
+    "term": "First Aid for Ingrown Toenails",
+    "definition": "Soak foot in warm water; keep area clean; avoid tight shoes."
+  },
+  {
+    "id": 85,
+    "term": "Symptoms of Migraine",
+    "definition": "Throbbing headache, sensitivity to light and sound; rest in dark, quiet room."
+  },
+  {
+    "id": 86,
+    "term": "Treating Blisters from Burns",
+    "definition": "Do not pop blisters; cover loosely; seek medical advice if large."
+  },
+  {
+    "id": 87,
+    "term": "Recognizing Deep Vein Thrombosis",
+    "definition": "Leg pain, swelling, warmth; urgent medical care required."
+  },
+  {
+    "id": 88,
+    "term": "First Aid for Nose Fractures",
+    "definition": "Apply cold compress; keep head elevated; seek medical attention."
+  },
+  {
+    "id": 89,
+    "term": "Treating Bites from Venomous Spiders",
+    "definition": "Clean wound; apply cold pack; seek immediate medical help."
+  },
+  {
+    "id": 90,
+    "term": "Symptoms of Mumps",
+    "definition": "Swollen salivary glands, fever, headache; consult healthcare provider."
+  },
+  {
+    "id": 91,
+    "term": "Handling Sunburn",
+    "definition": "Cool baths, moisturize with aloe vera, stay hydrated; avoid further sun exposure."
+  },
+  {
+    "id": 92,
+    "term": "First Aid for Croup",
+    "definition": "Calm the child; humidify air; seek medical advice if breathing is difficult."
+  },
+  {
+    "id": 93,
+    "term": "Recognizing Appendicitis",
+    "definition": "Abdominal pain moving to lower right side; nausea; requires surgery."
+  },
+  {
+    "id": 94,
+    "term": "Treating Bruises",
+    "definition": "Apply cold pack to reduce swelling; elevate if possible."
+  },
+  {
+    "id": 95,
+    "term": "Symptoms of Chickenpox",
+    "definition": "Itchy rash with blisters, fever; contagious; consult healthcare provider."
+  },
+  {
+    "id": 96,
+    "term": "Handling Electric Shock",
+    "definition": "Ensure scene is safe; do not touch victim until power is off; call emergency services."
+  },
+  {
+    "id": 97,
+    "term": "Treating Hypothermia in Infants",
+    "definition": "Warm skin-to-skin contact; cover head; seek medical help."
+  },
+  {
+    "id": 98,
+    "term": "First Aid for Hyperthermia",
+    "definition": "Move to cool place; remove excess clothing; cool with water or fans."
+  },
+  {
+    "id": 99,
+    "term": "Recognizing Depression",
+    "definition": "Persistent sadness, loss of interest; encourage professional help."
+  },
+  {
+    "id": 100,
+    "term": "Symptoms of TIA (Mini-Stroke)",
+    "definition": "Temporary stroke symptoms; urgent medical evaluation needed."
+  },
+  {
+    "id": 101,
+    "term": "Treating Plant Poisoning",
+    "definition": "Remove contaminated clothing; wash skin thoroughly; seek medical advice."
+  },
+  {
+    "id": 102,
+    "term": "Handling Foreign Objects in the Eye",
+    "definition": "Flush with clean water; do not rub; seek medical help if not removed."
+  },
+  {
+    "id": 103,
+    "term": "First Aid for Nausea",
+    "definition": "Sip clear fluids; rest; avoid strong odors; consult if persistent."
+  },
+  {
+    "id": 104,
+    "term": "Symptoms of Bronchitis",
+    "definition": "Coughing with mucus, fatigue, shortness of breath; rest and fluids."
+  },
+  {
+    "id": 105,
+    "term": "Treating Boils",
+    "definition": "Apply warm compresses; keep area clean; do not squeeze; seek medical advice."
+  },
+  {
+    "id": 106,
+    "term": "Recognizing Tuberculosis",
+    "definition": "Persistent cough, weight loss, night sweats; requires medical treatment."
+  },
+  {
+    "id": 107,
+    "term": "Handling Spider Bites",
+    "definition": "Clean area; apply ice; monitor for severe reactions."
+  },
+  {
+    "id": 108,
+    "term": "Treating Ringworm",
+    "definition": "Use antifungal creams; keep area clean and dry; avoid sharing personal items."
+  },
+  {
+    "id": 109,
+    "term": "First Aid for Hiccups",
+    "definition": "Hold breath briefly; sip cold water; may try gentle pressure on diaphragm."
+  },
+  {
+    "id": 110,
+    "term": "Symptoms of Vertigo",
+    "definition": "Spinning sensation, loss of balance; sit or lie down until it passes."
+  },
+  {
+    "id": 111,
+    "term": "Recognizing Scabies",
+    "definition": "Intense itching, rash; requires prescription treatment."
+  },
+  {
+    "id": 112,
+    "term": "Treating Athlete's Foot",
+    "definition": "Use antifungal medication; keep feet clean and dry; wear breathable footwear."
+  },
+  {
+    "id": 113,
+    "term": "Handling Nose Fractures",
+    "definition": "Apply cold compress; keep head elevated; seek medical attention."
+  },
+  {
+    "id": 114,
+    "term": "First Aid for Anxiety Attacks",
+    "definition": "Encourage slow breathing; provide reassurance; remove from stressful environment."
+  },
+  {
+    "id": 115,
+    "term": "Symptoms of Ear Infection",
+    "definition": "Ear pain, difficulty hearing, fever; consult healthcare provider."
+  },
+  {
+    "id": 116,
+    "term": "Treating Warts",
+    "definition": "Over-the-counter treatments available; avoid picking; consult if persistent."
+  },
+  {
+    "id": 117,
+    "term": "Recognizing Ulcers",
+    "definition": "Abdominal pain, indigestion, heartburn; medical evaluation needed."
+  },
+  {
+    "id": 118,
+    "term": "Handling Bed Bug Bites",
+    "definition": "Wash area; apply anti-itch cream; inspect and clean bedding."
+  },
+  {
+    "id": 119,
+    "term": "First Aid for Bruised Ribs",
+    "definition": "Rest; apply ice; avoid strenuous activity; seek medical advice."
+  },
+  {
+    "id": 120,
+    "term": "Symptoms of Measles",
+    "definition": "Fever, cough, rash; highly contagious; seek medical care."
+  },
+  {
+    "id": 121,
+    "term": "Treating Hiccups",
+    "definition": "Hold breath, sip cold water, or gargle; usually resolve on their own."
+  },
+  {
+    "id": 122,
+    "term": "Recognizing Gout",
+    "definition": "Joint pain, redness, swelling; often affects big toe; medical treatment required."
+  },
+  {
+    "id": 123,
+    "term": "Handling Poison Ivy Exposure",
+    "definition": "Wash skin with soap and water; apply calamine lotion; avoid scratching."
+  },
+  {
+    "id": 124,
+    "term": "First Aid for Lactose Intolerance Symptoms",
+    "definition": "Avoid dairy products; use lactase supplements if needed."
+  },
+  {
+    "id": 125,
+    "term": "Symptoms of Gallbladder Attack",
+    "definition": "Upper abdominal pain, nausea, vomiting; medical evaluation needed."
+  },
+  {
+    "id": 126,
+    "term": "Treating Mild Hypoglycemia",
+    "definition": "Consume 15 grams of fast-acting carbohydrates; recheck blood sugar."
+  },
+  {
+    "id": 127,
+    "term": "Recognizing Shingles",
+    "definition": "Painful rash on one side of body; antiviral treatment may be needed."
+  },
+  {
+    "id": 128,
+    "term": "Handling Contact Dermatitis",
+    "definition": "Identify and avoid irritant; apply soothing lotions; seek help if severe."
+  },
+  {
+    "id": 129,
+    "term": "First Aid for Toothache",
+    "definition": "Rinse mouth; use cold compress; do not apply aspirin to gum; see dentist."
+  },
+  {
+    "id": 130,
+    "term": "Symptoms of Colic in Infants",
+    "definition": "Crying for no apparent reason; drawing legs to abdomen; consult pediatrician."
+  },
+  {
+    "id": 131,
+    "term": "Treating Plantar Fasciitis",
+    "definition": "Rest, ice, stretching exercises; supportive footwear."
+  },
+  {
+    "id": 132,
+    "term": "Recognizing Swimmer's Ear",
+    "definition": "Ear pain, itching, redness; keep ear dry; seek medical treatment."
+  },
+  {
+    "id": 133,
+    "term": "Handling Motion Sickness",
+    "definition": "Focus on horizon; fresh air; consider over-the-counter remedies."
+  },
+  {
+    "id": 134,
+    "term": "First Aid for Constipation",
+    "definition": "Increase fiber and fluid intake; gentle exercise; consult if persistent."
+  },
+  {
+    "id": 135,
+    "term": "Symptoms of Sinus Infection",
+    "definition": "Facial pain, nasal congestion, headache; may require medical treatment."
+  },
+  {
+    "id": 136,
+    "term": "Treating Dry Skin",
+    "definition": "Moisturize regularly; avoid hot showers; use gentle soaps."
+  },
+  {
+    "id": 137,
+    "term": "Recognizing Earwax Blockage",
+    "definition": "Earache, hearing loss; do not insert objects; seek professional cleaning."
+  },
+  {
+    "id": 138,
+    "term": "Handling Canker Sores",
+    "definition": "Avoid spicy foods; use topical treatments; usually heal on their own."
+  },
+  {
+    "id": 139,
+    "term": "First Aid for Eye Strain",
+    "definition": "Rest eyes; follow 20-20-20 rule; adjust screen brightness."
+  },
+  {
+    "id": 140,
+    "term": "Symptoms of Pink Eye",
+    "definition": "Redness, itching, discharge; contagious; consult healthcare provider."
+  },
+  {
+    "id": 141,
+    "term": "Treating Heartburn",
+    "definition": "Avoid trigger foods; eat smaller meals; over-the-counter antacids."
+  },
+  {
+    "id": 142,
+    "term": "Recognizing Carpal Tunnel Syndrome",
+    "definition": "Numbness, tingling in hand; rest and wrist splints may help."
+  },
+  {
+    "id": 143,
+    "term": "Handling Bruises",
+    "definition": "Apply cold pack; elevate if possible; rest the affected area."
+  },
+  {
+    "id": 144,
+    "term": "First Aid for Dry Eyes",
+    "definition": "Use artificial tears; avoid dry environments; blink regularly."
+  },
+  {
+    "id": 145,
+    "term": "Symptoms of Flu",
+    "definition": "Fever, chills, muscle aches; rest and fluids; seek help if severe."
+  },
+  {
+    "id": 146,
+    "term": "Treating Lice Infestation",
+    "definition": "Use medicated shampoos; comb out nits; wash bedding."
+  },
+  {
+    "id": 147,
+    "term": "Recognizing Sleep Apnea",
+    "definition": "Loud snoring, daytime fatigue; medical evaluation needed."
+  },
+  {
+    "id": 148,
+    "term": "Handling Minor Headaches",
+    "definition": "Rest in quiet room; hydrate; over-the-counter pain relievers."
+  },
+  {
+    "id": 149,
+    "term": "First Aid for Sore Throat",
+    "definition": "Gargle warm salt water; stay hydrated; lozenges may soothe."
+  },
+  {
+    "id": 150,
+    "term": "Symptoms of Mononucleosis",
+    "definition": "Fatigue, sore throat, swollen glands; rest is important."
+  },
+  {
+    "id": 151,
+    "term": "Treating Nail Fungus",
+    "definition": "Antifungal treatments; keep nails trimmed and dry."
+  },
+  {
+    "id": 152,
+    "term": "Recognizing Anemia",
+    "definition": "Fatigue, pale skin, shortness of breath; dietary changes or supplements."
+  },
+  {
+    "id": 153,
+    "term": "Handling Snoring",
+    "definition": "Change sleep positions; avoid alcohol before bed; consult if persistent."
+  },
+  {
+    "id": 154,
+    "term": "First Aid for Muscle Soreness",
+    "definition": "Rest, gentle stretching, apply heat or cold as needed."
+  },
+  {
+    "id": 155,
+    "term": "Symptoms of Lactose Intolerance",
+    "definition": "Bloating, gas, diarrhea after dairy; reduce or avoid lactose."
+  },
+  {
+    "id": 156,
+    "term": "Treating Minor Burns",
+    "definition": "Cool under running water; cover with sterile dressing; do not apply creams."
+  },
+  {
+    "id": 157,
+    "term": "Recognizing High Blood Pressure",
+    "definition": "Often no symptoms; regular checks important; lifestyle changes may help."
+  },
+  {
+    "id": 158,
+    "term": "Handling Dandruff",
+    "definition": "Use medicated shampoos; manage stress; avoid harsh hair products."
+  },
+  {
+    "id": 159,
+    "term": "First Aid for Dry Mouth",
+    "definition": "Sip water frequently; chew sugar-free gum; avoid caffeine."
+  },
+  {
+    "id": 160,
+    "term": "Symptoms of Kidney Infection",
+    "definition": "Back pain, fever, frequent urination; requires antibiotics."
+  }
+]

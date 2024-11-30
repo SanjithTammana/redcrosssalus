@@ -163,7 +163,7 @@ export default function HomePage() {
               Learn to Save Lives
             </Typography>
             <Typography variant="body1" gutterBottom>
-              Whether you're practicing or responding to an emergency, we're here to help you every step of the way.
+              Whether you&apos;re practicing or responding to an emergency, we&apos;re here to help you every step of the way.
             </Typography>
           </ContentBox>
         </Container>

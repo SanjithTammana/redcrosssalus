@@ -479,7 +479,7 @@ const MatchingGameMode = ({ onExit }) => {
       {matchedPairs.length === matchingItems.length && (
         <Box sx={{ textAlign: 'center', mt: 2 }}>
           <Typography variant="h5" gutterBottom>
-            Great job! You've matched all pairs.
+            Great job! You&apos;ve matched all pairs.
           </Typography>
           <StyledButton variant="contained" onClick={onExit}>
             Back to Menu

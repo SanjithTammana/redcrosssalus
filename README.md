@@ -70,7 +70,6 @@ Prerequisites
 	•	npm or yarn package manager
 	•	Environment variables set for API keys:
 	•	GROQ_API_KEY (for Groq API)
-	•	OPENAI_API_KEY (for OpenAI Whisper)
 
 Installation
 
@@ -131,3 +130,10 @@ Acknowledgments
 
 	•	American Red Cross: For inspiring this project and providing invaluable resources on CPR and disaster preparedness.
 	•	Groq: For their APIs, which power the chatbot and voice interaction features.
+
+### Owners
+- [Suhrit Revuri](https://github.com/SuhritRevuri)
+- [Sanjith Tammana](https://github.com/SanjithTammana)
+
+
+

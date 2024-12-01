@@ -180,7 +180,7 @@ export default function HomePage() {
               Learn to Save Lives
             </Typography>
             <Typography variant="body1" gutterBottom>
-              Whether you&apose;re practicing or responding to an emergency, we&apose;re here to help you every step of the way.
+              Whether you are practicing or responding to an emergency, we are here to help you every step of the way.
             </Typography>
           </ContentBox>
         </Container>

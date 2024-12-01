@@ -1,11 +1,25 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { ThemeProvider, CssBaseline, AppBar, Toolbar, Button, Typography, Box } from '@mui/material';
+import {
+  ThemeProvider,
+  CssBaseline,
+  AppBar,
+  Toolbar,
+  Button,
+  Typography,
+  Box,
+  IconButton,
+  Drawer,
+  List,
+  ListItem,
+  ListItemText,
+} from '@mui/material';
 import { styled } from '@mui/material/styles';
 import { AnimatePresence, motion } from 'framer-motion';
-import theme from './/theme/theme';
+import MenuIcon from '@mui/icons-material/Menu';
+import theme from './theme/theme';
 import './globals.css';
 
 // Styled components for the header and layout
@@ -48,10 +62,24 @@ const slideAnimation = {
 
 export default function RootLayout({ children }) {
   const router = useRouter();
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   // Navigation handler
   const navigateTo = (path) => {
     router.push(path);
+    setMobileOpen(false); // Close the drawer on navigation
+  };
+
+  const navItems = [
+    { label: 'Home', path: '/' },
+    { label: 'Chatbot', path: '/chatbot' },
+    { label: 'Practice', path: '/practice' },
+    { label: 'Resources', path: '/resources' },
+    { label: 'About the Team', path: '/about-the-team' },
+  ];
+
+  const handleDrawerToggle = () => {
+    setMobileOpen(!mobileOpen);
   };
 
   return (
@@ -66,14 +94,50 @@ export default function RootLayout({ children }) {
                 <Typography variant="h6" style={{ flexGrow: 1, fontWeight: 700 }}>
                   Salus by Red Cross
                 </Typography>
-                {/* Navigation Buttons */}
-                <NavButton onClick={() => navigateTo('/')}>Home</NavButton>
-                <NavButton onClick={() => navigateTo('/chatbot')}>Chatbot</NavButton>
-                <NavButton onClick={() => navigateTo('/practice')}>Practice</NavButton>
-                <NavButton onClick={() => navigateTo('/resources')}>Resources</NavButton>
-                <NavButton onClick={() => navigateTo('/about-the-team')}>About the Team</NavButton>
+                {/* Desktop Navigation */}
+                <Box sx={{ display: { xs: 'none', md: 'block' } }}>
+                  {navItems.map((item) => (
+                    <NavButton key={item.label} onClick={() => navigateTo(item.path)}>
+                      {item.label}
+                    </NavButton>
+                  ))}
+                </Box>
+                {/* Mobile Navigation */}
+                <IconButton
+                  color="inherit"
+                  edge="end"
+                  onClick={handleDrawerToggle}
+                  sx={{ display: { md: 'none' } }}
+                >
+                  <MenuIcon />
+                </IconButton>
               </Toolbar>
             </StyledAppBar>
+
+            {/* Mobile Drawer */}
+            <Drawer
+              anchor="right"
+              open={mobileOpen}
+              onClose={handleDrawerToggle}
+              sx={{
+                '& .MuiDrawer-paper': {
+                  width: 240,
+                },
+              }}
+            >
+              <Box sx={{ textAlign: 'center', pt: 2 }}>
+                <Typography variant="h6" sx={{ my: 2 }}>
+                  Salus by Red Cross
+                </Typography>
+                <List>
+                  {navItems.map((item) => (
+                    <ListItem button key={item.label} onClick={() => navigateTo(item.path)}>
+                      <ListItemText primary={item.label} />
+                    </ListItem>
+                  ))}
+                </List>
+              </Box>
+            </Drawer>
 
             {/* Animated Page Transitions */}
             <AnimatePresence mode="wait">

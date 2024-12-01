@@ -13,6 +13,8 @@ import {
   FormControl,
   LinearProgress,
   IconButton,
+  useMediaQuery,
+  useTheme,
 } from '@mui/material';
 import { styled } from '@mui/material/styles';
 import CloseIcon from '@mui/icons-material/Close';
@@ -53,6 +55,9 @@ const MainContainer = styled(Container)(({ theme, mode }) => ({
     transform: 'scale(1.02)',
     boxShadow: '0px 16px 32px rgba(0, 0, 0, 0.2)',
   },
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(2),
+  },
 }));
 
 const CenteredBox = styled(Box)(({ theme }) => ({
@@ -66,7 +71,6 @@ const CenteredBox = styled(Box)(({ theme }) => ({
   height: '100%', // Take the full height of the parent container
 }));
 
-
 const StyledPaper = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(4),
   marginBottom: theme.spacing(2),
@@ -74,6 +78,9 @@ const StyledPaper = styled(Paper)(({ theme }) => ({
   boxShadow: 'none',
   maxWidth: '600px',
   width: '100%',
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(2),
+  },
 }));
 
 const Flashcard = styled(Paper)(({ theme }) => ({
@@ -88,16 +95,34 @@ const Flashcard = styled(Paper)(({ theme }) => ({
   },
   maxWidth: '600px',
   width: '100%',
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(4),
+  },
 }));
 
-const MatchingGrid = styled(Box)(({ theme }) => ({
+const MatchingGrid = styled(Box)(({ theme, columns }) => ({
   display: 'grid',
-  gridTemplateColumns: 'repeat(4, 1fr)',
-  gridTemplateRows: 'repeat(3, 1fr)',
+  gridTemplateColumns: `repeat(${columns}, 1fr)`,
   gap: theme.spacing(2),
   width: '100%',
   flexGrow: 1,
   marginTop: theme.spacing(2),
+}));
+
+const MatchingItem = styled(Box)(({ theme }) => ({
+  cursor: 'pointer',
+  backgroundColor: theme.palette.background.paper,
+  display: 'flex',
+  alignItems: 'center',
+  justifyContent: 'center',
+  textAlign: 'center',
+  padding: theme.spacing(2),
+  borderRadius: '8px',
+  boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
+  minHeight: '80px', // Adjusted for better appearance
+  '&:hover': {
+    boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.15)',
+  },
 }));
 
 const PracticePage = () => {
@@ -159,7 +184,7 @@ const MenuPage = ({ onStartTest, onStartFlashcards, onStartMatching }) => (
   </CenteredBox>
 );
 
-// Test Mode Component
+// Test Mode Component (Unchanged)
 const TestMode = ({ onExit }) => {
   const [testQuestions, setTestQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -313,7 +338,7 @@ const TestMode = ({ onExit }) => {
   );
 };
 
-// Flashcard Mode Component (unchanged)
+// Flashcard Mode Component (Unchanged)
 const FlashcardMode = ({ onExit }) => {
   const [flashcards, setFlashcards] = useState([]);
   const [currentFlashcardIndex, setCurrentFlashcardIndex] = useState(0);
@@ -386,15 +411,32 @@ const FlashcardMode = ({ onExit }) => {
   );
 };
 
-// Matching Game Mode Component (unchanged)
+// Matching Game Mode Component
 const MatchingGameMode = ({ onExit }) => {
   const [matchingItems, setMatchingItems] = useState([]);
   const [selectedItems, setSelectedItems] = useState([]);
   const [matchedPairs, setMatchedPairs] = useState([]);
 
+  const theme = useTheme();
+
+  // Use media queries to adjust columns based on screen size and orientation
+  const isLargeScreen = useMediaQuery(theme.breakpoints.up('md'));
+  const isLandscape = useMediaQuery('(orientation: landscape)');
+  let columns;
+
+  if (isLargeScreen && isLandscape) {
+    columns = 6; // 6 columns x 4 rows
+  } else if (isLargeScreen && !isLandscape) {
+    columns = 4; // 4 columns x 6 rows
+  } else if (!isLargeScreen && isLandscape) {
+    columns = 6; // 6 columns x 4 rows on small landscape
+  } else {
+    columns = 3; // 3 columns x 8 rows on small portrait
+  }
+
   React.useEffect(() => {
     const shuffledFacts = shuffleArray([...factsData]);
-    const pairs = shuffledFacts.slice(0, 6); // Adjusted to 6 pairs for the grid
+    const pairs = shuffledFacts.slice(0, 12); // Ensure 12 pairs for the grid
     const items = pairs.flatMap((pair) => [
       { id: pair.id, content: pair.term, type: 'term' },
       { id: pair.id, content: pair.definition, type: 'definition' },
@@ -433,6 +475,7 @@ const MatchingGameMode = ({ onExit }) => {
         flexDirection: 'column',
         alignItems: 'center',
         textAlign: 'center',
+        width: '100%',
       }}
     >
       <IconButton onClick={onExit} sx={{ position: 'absolute', top: 16, right: 16 }}>
@@ -444,13 +487,13 @@ const MatchingGameMode = ({ onExit }) => {
       <Typography variant="body1" gutterBottom>
         Match the terms with their correct definitions.
       </Typography>
-      <MatchingGrid>
+      <MatchingGrid columns={columns}>
         {matchingItems.map((item) => {
           const isSelected = selectedItems.some((selected) => selected.key === item.key);
           const isMatched = matchedPairs.some((matched) => matched.key === item.key);
 
           return (
-            <Box
+            <MatchingItem
               key={item.key}
               onClick={() => handleSelectItem(item)}
               sx={{
@@ -459,27 +502,18 @@ const MatchingGameMode = ({ onExit }) => {
                   ? '#d4edda'
                   : isSelected
                   ? '#ffeeba'
-                  : 'background.paper',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                textAlign: 'center',
-                padding: 2,
-                borderRadius: '8px',
-                boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.1)',
-                width: '100%',
-                height: '100%',
+                  : theme.palette.background.paper,
               }}
             >
               <Typography variant="body1">{item.content}</Typography>
-            </Box>
+            </MatchingItem>
           );
         })}
       </MatchingGrid>
       {matchedPairs.length === matchingItems.length && (
         <Box sx={{ textAlign: 'center', mt: 2 }}>
           <Typography variant="h5" gutterBottom>
-            Great job! You&apos;ve matched all pairs.
+            Great job! You matched all pairs.
           </Typography>
           <StyledButton variant="contained" onClick={onExit}>
             Back to Menu

@@ -19,6 +19,9 @@ const Background = styled(Box)(({ theme }) => ({
   padding: theme.spacing(8, 0),
   display: 'flex',
   flexDirection: 'column',
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(4, 0),
+  },
 }));
 
 const HeroSection = styled(Box)(({ theme }) => ({
@@ -32,11 +35,13 @@ const HeroSection = styled(Box)(({ theme }) => ({
   maxWidth: '1200px',
   marginLeft: 'auto',
   marginRight: 'auto',
-  textAlign: 'center',
   marginBottom: theme.spacing(8),
   '&:hover': {
     background: 'linear-gradient(to right, #c81828, #a3141f)',
     transform: 'scale(1.02)',
+  },
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(6, 2),
   },
 }));
 
@@ -56,6 +61,9 @@ const ContentBox = styled(Paper)(({ theme }) => ({
     transform: 'translateY(-8px)',
     boxShadow: '0px 16px 32px rgba(0, 0, 0, 0.2)',
   },
+  [theme.breakpoints.down('sm')]: {
+    padding: theme.spacing(3),
+  },
 }));
 
 const List = styled('ul')(({ theme }) => ({
@@ -72,6 +80,11 @@ const List = styled('ul')(({ theme }) => ({
       color: theme.palette.primary.main,
       marginRight: theme.spacing(1.5),
       fontSize: '1.2rem',
+    },
+  },
+  [theme.breakpoints.down('sm')]: {
+    '& li': {
+      fontSize: '0.9rem',
     },
   },
 }));
@@ -91,6 +104,10 @@ const ScrollButton = styled(Button)(({ theme }) => ({
     boxShadow: '0px 6px 12px rgba(0, 0, 0, 0.25)',
     transform: 'scale(1.05)',
   },
+  [theme.breakpoints.down('sm')]: {
+    fontSize: '0.9rem',
+    padding: theme.spacing(1, 4),
+  },
 }));
 
 export default function HomePage() {
@@ -104,11 +121,11 @@ export default function HomePage() {
   return (
     <GlobalStyles>
       <Background>
-        <Container>
+        <Container maxWidth="lg">
           {/* Hero Section */}
           <HeroSection>
             <LocalHospitalIcon fontSize="large" style={{ marginBottom: '16px' }} />
-            <Typography variant="h1" gutterBottom style={{ fontWeight: 700 }}>
+            <Typography variant="h2" gutterBottom style={{ fontWeight: 700 }}>
               First Aid and CPR Readiness
             </Typography>
             <Typography variant="h6" gutterBottom>
@@ -163,7 +180,7 @@ export default function HomePage() {
               Learn to Save Lives
             </Typography>
             <Typography variant="body1" gutterBottom>
-              Whether you&apos;re practicing or responding to an emergency, we&apos;re here to help you every step of the way.
+              Whether you&apose;re practicing or responding to an emergency, we&apose;re here to help you every step of the way.
             </Typography>
           </ContentBox>
         </Container>

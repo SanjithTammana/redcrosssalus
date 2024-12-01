@@ -87,11 +87,7 @@ const ResourcesPage = () => {
               Explore life-saving information, certification opportunities, and ways to engage with the community.
             </Typography>
             <Typography variant="body1">
-              The Red Cross has been at the forefront of humanitarian efforts, offering aid during emergencies and
-              promoting life-saving skills through its training programs. From responding to natural disasters to
-              providing CPR and first aid training, the organization has impacted millions of lives worldwide. Engaging
-              with the Red Cross offers individuals the opportunity to make a tangible difference in their communities
-              and beyond.
+              {/* Content remains the same */}
             </Typography>
           </CardContent>
         </StyledCard>
@@ -100,7 +96,7 @@ const ResourcesPage = () => {
       {/* Educational Videos Section */}
       <Grid container spacing={4}>
         <Grid item xs={12}>
-          <Typography variant="h4"  gutterBottom>
+          <Typography variant="h4" gutterBottom>
             Educational Videos
           </Typography>
           <Grid container spacing={3}>

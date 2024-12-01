@@ -21,11 +21,13 @@ body {
 
 /* Typography */
 h1 {
-  font-size: 2rem; /* Reduced size for "First Aid and CPR Readiness" */
+  font-size: 2rem;
   color: var(--red-cross-white);
 }
 
-h2, h3, h4 {
+h2,
+h3,
+h4 {
   color: var(--red-cross-red);
 }
 
@@ -64,7 +66,7 @@ button:hover {
 }
 
 ::-webkit-scrollbar {
-  width:8px;
+  width: 8px;
 }
 
 ::-webkit-scrollbar-track {
@@ -79,4 +81,15 @@ button:hover {
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: #c81828;
+}
+
+/* Responsive typography */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+  }
 }

@@ -70,7 +70,6 @@ Prerequisites
 	•	npm or yarn package manager
 	•	Environment variables set for API keys:
 	•	GROQ_API_KEY (for Groq API)
-	•	OPENAI_API_KEY (for OpenAI Whisper)
 
 Installation
 
